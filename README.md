@@ -42,7 +42,8 @@ All results are **pre-fed** in this version but simulate real-time memory-based 
 
 ## 📄 Tool Link
 
-[View the Notion Version (PDF) – add link here after upload]
+📄 [View the Notion Version (PDF)](https://github.com/ektaa0302/SearchVault-/blob/main/SearchVault.pdf)
+
 
 ---
 
